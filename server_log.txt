@@ -1,0 +1,160 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:37:19] 
+[19:37:19] Server Plugins
+[19:37:19] --------------
+[19:37:19]  Loaded 0 plugins.
+
+[19:37:19] 
+[19:37:19] Filterscripts
+[19:37:19] ---------------
+[19:37:19]   Loaded 0 filterscripts.
+
+[19:37:19] Greenhouse gamemode loaded.
+[19:37:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:15] 
+[19:41:15] Server Plugins
+[19:41:15] --------------
+[19:41:15]  Loading plugin: streamer
+[19:41:15] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:41:15]   Loaded.
+[19:41:15]  Loaded 1 plugins.
+
+[19:41:15] 
+[19:41:15] Filterscripts
+[19:41:15] ---------------
+[19:41:15]   Loaded 0 filterscripts.
+
+[19:41:15] Greenhouse gamemode loaded.
+[19:41:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:16:36] 
+[20:16:36] Server Plugins
+[20:16:36] --------------
+[20:16:36]  Loading plugin: streamer
+[20:16:36] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:16:36]   Loaded.
+[20:16:36]  Loaded 1 plugins.
+
+[20:16:36] 
+[20:16:36] Filterscripts
+[20:16:36] ---------------
+[20:16:36]   Loaded 0 filterscripts.
+
+[20:16:36] Greenhouse gamemode loaded.
+[20:16:36] Database initialized.
+[20:16:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:36:31] 
+[21:36:31] Server Plugins
+[21:36:31] --------------
+[21:36:31]  Loading plugin: streamer
+[21:36:31] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[21:36:31]   Loaded.
+[21:36:31]  Loaded 1 plugins.
+
+[21:36:31] 
+[21:36:31] Filterscripts
+[21:36:31] ---------------
+[21:36:31]   Loaded 0 filterscripts.
+
+[21:36:31] Greenhouse gamemode loaded.
+[21:36:31] Database initialized.
+[21:36:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:30:23] 
+[14:30:23] Server Plugins
+[14:30:23] --------------
+[14:30:23]  Loading plugin: streamer
+[14:30:23] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[14:30:23]   Loaded.
+[14:30:23]  Loaded 1 plugins.
+
+[14:30:23] 
+[14:30:23] Filterscripts
+[14:30:23] ---------------
+[14:30:23]   Loaded 0 filterscripts.
+
+[14:30:23] Greenhouse gamemode loaded.
+[14:30:23] Database initialized.
+[14:30:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:32:20] 
+[14:32:20] Server Plugins
+[14:32:20] --------------
+[14:32:20]  Loading plugin: streamer
+[14:32:20] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[14:32:20]   Loaded.
+[14:32:20]  Loaded 1 plugins.
+
+[14:32:20] 
+[14:32:20] Filterscripts
+[14:32:20] ---------------
+[14:32:20]   Loaded 0 filterscripts.
+
+[14:32:20] Greenhouse gamemode loaded.
+[14:32:20] Database initialized.
+[14:32:20] Number of vehicle models: 0

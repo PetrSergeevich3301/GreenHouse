@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile Pawn",
+            "type": "shell",
+            "command": "${workspaceFolder}/pawno/pawncc.exe",
+            "args": [
+                "${file}",
+                "-o${fileDirname}/${fileBasenameNoExtension}",
+                "-i${workspaceFolder}/include"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always"
+            }
+        }
+    ]
+}
